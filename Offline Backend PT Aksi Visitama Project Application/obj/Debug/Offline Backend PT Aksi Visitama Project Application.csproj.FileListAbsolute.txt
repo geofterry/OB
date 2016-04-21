@@ -1,0 +1,262 @@
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+D:\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Users\7\Downloads\Music\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+F:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+F:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+F:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Users\AT\Desktop\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\AT\Desktop\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+D:\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Users\AT\Desktop\PT AV\Aplikasi\Offline Backend PT Aksi Visitama Project Application\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+I:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+I:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+F:\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+F:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+F:\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+I:\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+I:\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+I:\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.DeleteTopUp.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\a\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangesTransaction.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangesTransaction.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.DeleteTopUp.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\really last\PT AV\Aplikasi\Aplikasi OB v0.01\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadFileTopUp.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangesTransaction.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.DeleteTopUp.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadFileTopUp.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Aplikasi OB v0.02\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangesTransaction.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.DeleteTopUp.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadFileTopUp.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+C:\Aplikasi OB v0.03\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe.config
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.exe
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Offline Backend PT Aksi Visitama Project Application.pdb
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.dll
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\bin\Debug\office.xml
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csprojResolveAssemblyReference.cache
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangePasswordForm.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ChangesTransaction.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.DeleteTopUp.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.LoginForm.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.MDIform.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Performance.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Properties.Resources.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.RedimptionReportPerBrand.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.TopUpManual.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UpdateTransactionForm.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadFileTopUp.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGeneration.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.UploadGenerationManual.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verif.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification_Report.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.Verification.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline_Backend_PT_Aksi_Visitama_Project_Application.ViewHistoryTransaction.resources
+C:\Aplikasi OB v0.04\Offline Backend PT Aksi Visitama Project Application\obj\Debug\Offline Backend PT Aksi Visitama Project Application.csproj.GenerateResource.Cache
